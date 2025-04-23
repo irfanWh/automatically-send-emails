@@ -39,7 +39,7 @@ Avant d'exécuter le script :
             Bonjour {names[i]},
             Corps de message ici
             """
-
+```
 Bibliothèques requises : 
     smtplib
     MIMEMultipart
